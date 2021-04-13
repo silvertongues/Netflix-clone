@@ -1,7 +1,7 @@
 # Clone da página inicial da Netflix // Cloning Netflix's home page
 
-* Clone básico da página da Netflix utilizando HTML5, CSS3, Javascript e jQuerry. Com responsividade.
-* Basic clone of Netflix's home page using HTML5, CSS3, Javascript and jQuerry. With responsivity.
+* Clone básico da página da Netflix utilizando HTML5, CSS3, Javascript e jQuery. Com responsividade.
+* Basic clone of Netflix's home page using HTML5, CSS3, Javascript and jQuery. With responsivity.
 
 Visualização / Preview:
 
